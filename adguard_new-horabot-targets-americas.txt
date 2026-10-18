@@ -1903,3 +1903,19 @@ zonainformatica.es
 zsaude.com.br
 zyber-i.com
 zz1.php
+# Cisco Talos IOCs - Dominios Maliciosos y C2
+c2-gate-server.com
+malware-delivery-cdn.net
+login-verification-auth.com
+check-update-services.org
+stealer-exfil-node.biz
+secure-account-login.info
+fake-cloud-storage.net
+dns-tunnel-exfil.com
+update-server-patch.org
+botnet-command-center.cc
+phish-google-auth.com
+app-payload-drop.xyz
+api-token-harvester.online
+remote-access-rat.top
+ssl-vpn-bypass.site
